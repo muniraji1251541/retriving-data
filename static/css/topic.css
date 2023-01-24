@@ -1,0 +1,8 @@
+body {
+    background-color: blueviolet;
+    color: aqua;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+}
